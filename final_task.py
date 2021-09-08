@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Sep  7 00:27:48 2021
-
-@author: 13732
-"""
-
 from itertools import islice
 %matplotlib inline
 import matplotlib.pyplot as plt
