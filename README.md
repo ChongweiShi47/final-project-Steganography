@@ -1,5 +1,5 @@
 # final-project-Steganography
-Compression with Constraints: Steganography
+# Compression with Constraints: Steganography
 The natural images are compressible, usually a full size image of several megabytes can be reduced to kilobytes level easily without lossing too much important information. Such property has been used widely to denoising, deblur, etc. techniques.
 
 The steganography is a topic lying in the cryptography. It is concealing a file, message, image, or video within another file, message, image, or video.
