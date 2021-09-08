@@ -1,9 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Sep  6 12:15:53 2021
-
-@author: 13732
-"""
 from PIL import Image
 from steganography import Steganography
 merged_image=Steganography.merge(Image.sopen('img1.jpg'),Image.open('img2.jpg'))
